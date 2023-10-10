@@ -1,0 +1,17 @@
+body{
+  background-image: url("./assets/weather.jpg");
+  background-size: cover;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  padding-top: 10%;
+  padding-left: 20%;
+  height: 100vh;
+}
+
+h2{
+  font-size: 2em;
+  font-weight: lighter;
+}
